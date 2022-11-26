@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 
 import org.json.*;
 
-public class JSONToXML {
+public class JSONAndXML {
 
     public static void main(String[] args) throws Exception {
         xmlToJSON();
