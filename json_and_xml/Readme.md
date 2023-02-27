@@ -58,8 +58,8 @@
 
 ## Output
 
-Input File [https://github.com/arjunQ21/ead/blob/main/json_and_xml/users.json]
+[Input File](https://github.com/arjunQ21/ead/blob/main/json_and_xml/users.json)
 
-Output JSON File [https://github.com/arjunQ21/ead/blob/main/json_and_xml/output.json]
+[Output JSON File](https://github.com/arjunQ21/ead/blob/main/json_and_xml/output.json)
 
-Output xml File [https://github.com/arjunQ21/ead/blob/main/json_and_xml/output.xml]
+[Output xml File](https://github.com/arjunQ21/ead/blob/main/json_and_xml/output.xml)
